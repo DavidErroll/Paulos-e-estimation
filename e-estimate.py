@@ -7,7 +7,7 @@
 
 from random import random
 
-from math import e
+# from math import e
 
 def randomize():
     accumulator = 0
@@ -27,6 +27,7 @@ def sample(size):
 def main():
     for size in range(1000000, 10000001, 1000000):
         estimate = sample(size)
-        print(estimate - e)
+        print(estimate)
+#       print(estimate - e)
     
 main()    
