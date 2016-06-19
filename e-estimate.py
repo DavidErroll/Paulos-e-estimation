@@ -2,7 +2,7 @@
 # Pick a random number between 0 & 1. 
 # Pick 2nd number & add it to the 1st.
 # Repeat until sum exceeds 1.
-# The average number of picks is e!
+# The average number of picks is e.
 # https://twitter.com/JohnAllenPaulos/status/744227797468581890
 
 from random import random
