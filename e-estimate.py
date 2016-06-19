@@ -24,10 +24,13 @@ def sample(size):
     average = total / size
     return average
 
-def main():
+def output():
     for size in range(1000000, 10000001, 1000000):
         estimate = sample(size)
         print(estimate)
 #       print(estimate - e)
     
+def main():
+    output()
+
 main()    

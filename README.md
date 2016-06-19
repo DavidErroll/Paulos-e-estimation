@@ -1,5 +1,9 @@
 # Paulos-e-estimation
 
+This version moves main() into its own function, which is called by main().
+
+***
+
 Paulos tweeted a method of estimating e that reminded me of our 
 discussion regarding expected wait time and the interval [0 - 1]:
 
