@@ -1,6 +1,6 @@
 # Paulos-e-estimation
 
-Paulos tweeted a method of estimating e that reminded me of our 
+John Allen Paulos tweeted a iterative method for estimating e that reminded me of a recent 
 discussion regarding expected wait time and the interval [0 - 1]:
 
 Select a random number between 0 and 1.
